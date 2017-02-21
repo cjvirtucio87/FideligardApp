@@ -1,6 +1,6 @@
 ## FIDELIGARD STOCK SIMULATOR
 
-[LIVE DEMO](fideli-stock.surge.sh)
+[LIVE DEMO](http://fideli-stock.surge.sh)
 
 Fideligard is a Stock Portfolio Simulator built using Angular 1.x. It's a
 
